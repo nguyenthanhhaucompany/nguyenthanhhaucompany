@@ -73,11 +73,11 @@
 
 ### ⚡Github Stats⚡
  <p style="padding: auto">
-   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhlong11&show_icons=true&theme=shades-of-purple">
-   <img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhlong11&theme=shades-of-purple" />
+   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenthanhhaucompany&show_icons=true&theme=shades-of-purple">
+   <img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhhaucompany&theme=shades-of-purple" />
  </p>
  <p>
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhlong11&layout=compact&theme=buefy " />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanhhaucompany&layout=compact&theme=buefy " />
    <img width="49%" height="220px" src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" />
  </p>
 <!--
