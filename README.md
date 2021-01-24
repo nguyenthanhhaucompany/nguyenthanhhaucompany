@@ -15,6 +15,19 @@
   <img src="/assets/imgs/C.png" width="100"/>&emsp;
   <img src="/assets/imgs/Cplusplus.png" width="100"/>&emsp;
   <img src="/assets/imgs/Csharp.png" width="100"/>&emsp;
+  <img src="/assets/imgs/java.png" width="100"/>&emsp;
+  <img src="/assets/imgs/python.gif" width="100"/>&emsp;
+</p>
+<p>
+  <img src="/assets/imgs/mysql.png" width="135"/>&emsp;
+  <img src="/assets/imgs/mongodb.png" width="100"/>&emsp;
+  <img src="/assets/imgs/sqlserver.png" width="110"/>&emsp;
+</p>
+<p>
+  <img src="/assets/imgs/firebase.gif" width="100"/>&emsp;
+  <img src="/assets/imgs/vscode.gif" width="100"/>&emsp;
+  <img src="/assets/imgs/github.gif" width="100"/>&emsp;
+  <img src="/assets/imgs/git.gif" width="180"/>&emsp;
 </p>
 
 <!--
