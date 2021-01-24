@@ -18,11 +18,11 @@
   <img src="/assets/imgs/react.gif" width="100"/>&emsp; 
   <img src="/assets/imgs/angular.gif" width="95"/>&emsp;
   <img src="/assets/imgs/vue.gif" width="100"/>&emsp;
+  <img src="/assets/imgs/bootstrap.gif" width="110"/>&emsp;
 </p>
 <p>
   <img src="/assets/imgs/html.png" width="100"/>&emsp;
   <img src="/assets/imgs/css.png" width="100"/>&emsp;
-  <img src="/assets/imgs/bootstrap.gif" width="110"/>&emsp;
 </p>
 <p>
   <img src="/assets/imgs/C.png" width="100"/>&emsp;
